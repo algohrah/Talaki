@@ -1,0 +1,6 @@
+{
+  "name": "منصة الزواج القطرية",
+  "description": "منصة الزواج القطرية - المنصة الموثوقة للتوفيق والزواج الشرعي في المجتمع القطري والخليجي بخصوصية وسرية تامة.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
